@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="button">Cuenta</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
